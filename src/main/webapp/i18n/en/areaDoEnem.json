@@ -1,0 +1,12 @@
+{
+  "caseGammaApp": {
+    "AreaDoEnem": {
+      "null": "",
+      "LINGUAGENS": "LINGUAGENS",
+      "MATEMATICA": "MATEMATICA",
+      "CIENCIAS_NATURAIS": "CIENCIAS_NATURAIS",
+      "CIENCIAS_HUMANAS": "CIENCIAS_HUMANAS",
+      "REDACAO": "REDACAO"
+    }
+  }
+}
